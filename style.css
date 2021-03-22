@@ -1,0 +1,226 @@
+#wer{
+	justify-content:space-evenly;
+	display:flex;
+	list-style: none;
+    margin: 0px;
+    padding-left: 0px;
+    width: 100%;
+	background-color: rgb(0, 128, 255);
+}
+#wer>li{
+	padding:10px ;
+	background-color: rgb(0, 0, 131);
+	margin:10px 10px 10px 10px;
+	color:#fff
+
+
+}#wer>li>a{
+	color:#fff;
+	text-decoration: none;
+
+}
+*{
+	margin:0;
+	padding:0;
+}
+header{
+	background-color:rgb(0, 128, 255)3;
+}
+nav {
+   
+    width: 100%;
+	
+}
+.asd{
+	background-color:#0e0091;
+	color: white;
+	text-align: center;
+	
+
+}
+.asd::first-line{
+	font-style: italic;
+
+}
+
+h1{
+	background-color:rgb(0, 102, 255);
+}
+nav {
+	background-color:rgb(0, 137, 228);
+
+}
+#er {
+	color:blue;
+}
+#qwe {
+
+text-align: center;
+padding:15px ;
+font-size: 25px;
+color: rgb(0, 0, 131);
+text-decoration: underline;
+font-style:italic ;
+
+
+
+}
+footer{
+	background-color:rgb(0, 0, 131);
+    color: white;
+    text-align: center;
+	padding:30px;
+	position: relative;
+	bottom:px;
+	
+}
+
+	
+	
+
+
+html{
+	overflow: hidden;
+}
+#zxc{
+	display: flex;
+	
+}
+#zxc>aside{
+	width: 30%;
+	;
+}
+#cxz{
+	width: 70%;
+	background:rgb(0, 128, 255)
+	 ;
+}
+
+#kamen{
+	display: flex;
+	background:#0e0091;
+	justify-content: space-evenly;
+}
+#kamen>h1{
+	padding-top:30px;
+	padding-left:10px;
+	/* text-indent: 30px; */
+
+}
+#kamen>img{
+	margin-top:16px;
+
+}
+#lga{
+	width: 100%;
+	display:flex;
+    flex-wrap:wrap ;
+	justify-content: center;
+margin-top: 20px;
+
+	
+}
+.lga:nth-of-type(1){
+	 background-image: url(../img/motel.jpg); 
+color:red;
+background-size: contain;
+background-repeat: no-repeat;
+
+}
+#lga>div{
+	width: 225px;
+	border-left: 7px solid rgb(2, 0, 14);
+	border-top: 7px solid rgb(2, 0, 14);
+	border-bottom:7px solid rgb(22, 0, 145) ;
+	border-right:7px solid rgb(22, 0, 145) ;
+	margin-left: 25px;
+	margin-bottom: 15px;
+	height: 150px;
+	
+
+}
+.lga:nth-of-type(2){
+	background-image: url(../img/motel2.jpg); 
+color:red;
+background-size: contain;
+background-repeat: no-repeat;
+
+}
+.lga:nth-of-type(3){
+	background-image: url(../img/motel3.jpg); 
+color:red;
+background-size: contain;
+background-repeat: no-repeat;
+
+}
+.lga:nth-of-type(4){
+	background-image: url(../img/motel4.jpg); 
+color:red;
+background-size: contain;
+background-repeat: no-repeat;
+
+}
+.lga:nth-of-type(5){
+	background-image: url(../img/motel5.jpg); 
+color:red;
+background-size: contain;
+background-repeat: no-repeat;
+
+}
+.lga:nth-of-type(6){
+	background-image: url(../img/motel6.jpg); 
+color:red;
+background-size: contain;
+background-repeat: no-repeat;
+
+}
+fieldset{
+	color:rgb(0, 0, 131);
+	margin:15px;
+	border:solid;
+	padding: 12px 20px ;
+	width: px;
+	font-size: 18px;
+	
+}
+
+legend{
+	text-align: left;
+	margin-left: 1px;
+	font-size: 25px;
+
+}
+aside{
+	background-color:rgba(53, 124, 255, 0.822);
+}
+#rta{
+	border-radius: 7px;
+	/* display: flex; */
+	/* flex-direction: column; */
+	/* justify-content: left; */
+
+}
+#rta >div{
+	padding:20px;
+	background:rgb(0, 0, 187);
+	color:white;
+	margin:15px;
+	/* text-align: center; */
+	margin-left:10px;
+	padding-left: 7px;
+	display: inline-block;
+	text-align: center;
+
+
+}
+html{
+	overflow: scroll;
+}
+#skill{
+	background-size:contain;
+	margin:400px ;
+	width: 1000px;
+}
+
+
+
